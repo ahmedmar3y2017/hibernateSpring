@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.2-javadoc">
+    <CLASSES>
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aop-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aspects-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-beans-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-support-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-core-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-expression-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-tomcat-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jdbc-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jms-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-messaging-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-orm-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-oxm-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-test-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-tx-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-web-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-portlet-4.3.6.RELEASE.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-websocket-4.3.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aop-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aspects-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-beans-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-support-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-core-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-expression-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-tomcat-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jdbc-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jms-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-messaging-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-orm-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-oxm-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-test-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-tx-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-web-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-portlet-4.3.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-websocket-4.3.6.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aop-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-aspects-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-beans-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-context-support-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-core-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-expression-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-instrument-tomcat-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jdbc-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-jms-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-messaging-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-orm-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-oxm-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-test-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-tx-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-web-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-webmvc-portlet-4.3.6.RELEASE-sources.jar!/" />
+      <root url="jar://E:/computer and information/java/programming/programming tautorial/ahmed mar3y/java EE/Libraries/Spring jars/spring-websocket-4.3.6.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
